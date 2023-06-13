@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/LenaMaistrenko/SuperHeroFront/static/css/main.7acaea2f.css",
-    "main.js": "/LenaMaistrenko/SuperHeroFront/static/js/main.07d3183d.js",
-    "index.html": "/LenaMaistrenko/SuperHeroFront/index.html",
-    "main.7acaea2f.css.map": "/LenaMaistrenko/SuperHeroFront/static/css/main.7acaea2f.css.map",
-    "main.07d3183d.js.map": "/LenaMaistrenko/SuperHeroFront/static/js/main.07d3183d.js.map"
+    "main.css": "/SuperHeroFront/static/css/main.7acaea2f.css",
+    "main.js": "/SuperHeroFront/static/js/main.07d3183d.js",
+    "index.html": "/SuperHeroFront/index.html",
+    "main.7acaea2f.css.map": "/SuperHeroFront/static/css/main.7acaea2f.css.map",
+    "main.07d3183d.js.map": "/SuperHeroFront/static/js/main.07d3183d.js.map"
   },
   "entrypoints": [
     "static/css/main.7acaea2f.css",
